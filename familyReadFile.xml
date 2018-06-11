@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Family>
+   	<member>
+   		<name>Dad</name>
+   		<type>person</type>
+      <birthday>1965-02-09</birthday>
+      <city>Boulder</city>
+      <state>Colorado</state>
+    </member>
+  	<member>
+   		<name>Mom</name>
+   		<type>person</type>
+      <birthday>1965-02-12</birthday>
+      <city>Boulder</city>
+      <state>Colorado</state>
+   	</member>
+  	<member>
+   		<name>Emily</name>
+   		<type>person</type>
+      <birthday>1993-09-06</birthday>
+      <city>Boulder</city>
+      <state>Colorado</state>
+   	</member>
+   	<member>
+   		<name>Daniel</name>
+   		<type>person</type>
+      <birthday>1995-12-13</birthday>
+      <city>Cleveland</city>
+      <state>Ohio</state>
+   	</member>
+          <member>
+   		<name>Lindsey</name>
+   		<type>person</type>
+      <birthday>1997-10-28</birthday>
+      <city>Santa Barbara</city>
+      <state>California</state>
+   	</member>
+   	<member>
+   		<name>Brendan</name>
+   		<type>person</type>
+      <birthday>1999-12-02</birthday>
+      <city>New York</city>
+      <state>New York</state>
+   	</member>
+   	<member>
+   		<name>Aspen</name>
+   		<type>dog</type>
+      <birthday>2005-10-04</birthday>
+      <city>Boulder</city>
+      <state>Colorado</state>
+   	</member>
+</Family>

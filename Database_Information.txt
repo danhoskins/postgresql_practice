@@ -1,0 +1,5 @@
+Important Information about Database:
+password: password
+port number: 5432
+database name: postgres
+owner: postgres
